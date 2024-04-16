@@ -1,0 +1,40 @@
+@media (max-width:450px) {
+
+    .container{
+        /* text-align: center; */
+       margin: 2rem auto;
+       width: 100%;
+       max-width: 90%;
+    }
+
+    .container h1{
+        font-weight: bolder;
+        font-size: 30px;
+        
+    }
+
+    .display{
+        width: 100%;
+        margin-top: 40px;
+        /* margin-bottom: 30px; */
+        /* background-color: white; */
+        /* display: flex; */
+        /* align-items: center; */
+        /* justify-content: space-between; */
+        padding:2rem;
+        /* border-radius:5px; */
+    
+    }
+
+    .display input{
+        /* border: 0; */
+        /* outline: 0; */
+        /* font-size: 1.2rem; */
+        /* background-color: none; */
+        width: 1005;
+        max-width: 90%;
+    }
+
+
+    
+}
